@@ -113,7 +113,7 @@ class FlipDown {
    * @author PButcher
    **/
   _getTime() {
-    return new Date().getTime() / 1000;
+    return new Date().getTime() / 50;
   }
 
   /**
